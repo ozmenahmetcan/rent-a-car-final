@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Core\RentAPI.Application\bin\Debug\net7.0\RentAPI.Application.deps.json
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Core\RentAPI.Application\bin\Debug\net7.0\RentAPI.Application.dll
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Core\RentAPI.Application\bin\Debug\net7.0\RentAPI.Application.pdb
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Core\RentAPI.Application\bin\Debug\net7.0\RentAPI.Domain.dll
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Core\RentAPI.Application\bin\Debug\net7.0\RentAPI.Domain.pdb
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Core\RentAPI.Application\obj\Debug\net7.0\RentAPI.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Core\RentAPI.Application\obj\Debug\net7.0\RentAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Core\RentAPI.Application\obj\Debug\net7.0\RentAPI.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Core\RentAPI.Application\obj\Debug\net7.0\RentAPI.Application.AssemblyInfo.cs
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Core\RentAPI.Application\obj\Debug\net7.0\RentAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Core\RentAPI.Application\obj\Debug\net7.0\RentAPI.Application.csproj.CopyComplete
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Core\RentAPI.Application\obj\Debug\net7.0\RentAPI.Application.dll
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Core\RentAPI.Application\obj\Debug\net7.0\refint\RentAPI.Application.dll
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Core\RentAPI.Application\obj\Debug\net7.0\RentAPI.Application.pdb
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Core\RentAPI.Application\obj\Debug\net7.0\ref\RentAPI.Application.dll

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "RentAPI.Persistance/1.0.0": {
+        "dependencies": {
+          "RentAPI.Application": "1.0.0"
+        },
+        "runtime": {
+          "RentAPI.Persistance.dll": {}
+        }
+      },
+      "RentAPI.Application/1.0.0": {
+        "dependencies": {
+          "RentAPI.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RentAPI.Application.dll": {}
+        }
+      },
+      "RentAPI.Domain/1.0.0": {
+        "runtime": {
+          "RentAPI.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RentAPI.Persistance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RentAPI.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RentAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

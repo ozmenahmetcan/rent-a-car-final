@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Infrastructure\bin\Debug\net7.0\RentAPI.Infrastructure.deps.json
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Infrastructure\bin\Debug\net7.0\RentAPI.Infrastructure.dll
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Infrastructure\bin\Debug\net7.0\RentAPI.Infrastructure.pdb
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Infrastructure\bin\Debug\net7.0\RentAPI.Application.dll
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Infrastructure\bin\Debug\net7.0\RentAPI.Domain.dll
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Infrastructure\bin\Debug\net7.0\RentAPI.Application.pdb
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Infrastructure\bin\Debug\net7.0\RentAPI.Domain.pdb
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Infrastructure\obj\Debug\net7.0\RentAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Infrastructure\obj\Debug\net7.0\RentAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Infrastructure\obj\Debug\net7.0\RentAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Infrastructure\obj\Debug\net7.0\RentAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Infrastructure\obj\Debug\net7.0\RentAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Infrastructure\obj\Debug\net7.0\RentAPI.Infrastructure.csproj.CopyComplete
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Infrastructure\obj\Debug\net7.0\RentAPI.Infrastructure.dll
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Infrastructure\obj\Debug\net7.0\refint\RentAPI.Infrastructure.dll
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Infrastructure\obj\Debug\net7.0\RentAPI.Infrastructure.pdb
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Infrastructure\obj\Debug\net7.0\ref\RentAPI.Infrastructure.dll

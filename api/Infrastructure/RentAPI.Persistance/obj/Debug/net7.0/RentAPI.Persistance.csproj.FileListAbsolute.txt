@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Persistance\bin\Debug\net7.0\RentAPI.Persistance.deps.json
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Persistance\bin\Debug\net7.0\RentAPI.Persistance.dll
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Persistance\bin\Debug\net7.0\RentAPI.Persistance.pdb
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Persistance\bin\Debug\net7.0\RentAPI.Application.dll
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Persistance\bin\Debug\net7.0\RentAPI.Domain.dll
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Persistance\bin\Debug\net7.0\RentAPI.Application.pdb
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Persistance\bin\Debug\net7.0\RentAPI.Domain.pdb
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Persistance\obj\Debug\net7.0\RentAPI.Persistance.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Persistance\obj\Debug\net7.0\RentAPI.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Persistance\obj\Debug\net7.0\RentAPI.Persistance.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Persistance\obj\Debug\net7.0\RentAPI.Persistance.AssemblyInfo.cs
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Persistance\obj\Debug\net7.0\RentAPI.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Persistance\obj\Debug\net7.0\RentAPI.Persistance.csproj.CopyComplete
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Persistance\obj\Debug\net7.0\RentAPI.Persistance.dll
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Persistance\obj\Debug\net7.0\refint\RentAPI.Persistance.dll
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Persistance\obj\Debug\net7.0\RentAPI.Persistance.pdb
+C:\Users\Admin\Desktop\RentAhmet\RentAPI\Infrastructure\RentAPI.Persistance\obj\Debug\net7.0\ref\RentAPI.Persistance.dll

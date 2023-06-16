@@ -1,0 +1,50 @@
+<div class="container">
+    <div class="row">
+        <nav class="navbar navbar-expand-lg bg-body-tertiary bg-dark" data-bs-theme="dark">
+            <div class="container-fluid">
+                <a class="navbar-brand" routerLink="">Araç Kiralama</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" routerLink="">Anasayfa</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" routerLink="araclar">Araçlar</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" routerLink="sepet">Sepet</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" routerLink="kayit" *ngIf="!authService.isAuthenticated">Kayıt</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" routerLink="giris" *ngIf="!authService.isAuthenticated">Giriş</a>
+                        </li>
+                        <li>
+                            <a class="nav-link" style="color: rgb(170, 51, 51); cursor: pointer;" (click)="signOut()"
+                                *ngIf="authService.isAuthenticated">Çıkış Yap</a>
+                        </li>
+                        <button class="btn btn-outline-success" type="submit" routerLink="yonetici"
+                            *ngIf="authService.isAuthenticated">Yönetim
+                            Paneli</button>
+
+                    </ul>
+                    <form class="d-flex" role="search">
+                        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-outline-success" type="submit">Search</button>
+                    </form>
+                </div>
+            </div>
+        </nav>
+        <router-outlet></router-outlet>
+    </div>
+</div>
+
+<ngx-spinner size="default" name="s1" type="ball-atom"></ngx-spinner>
+<ngx-spinner size="default" name="s2" type="ball-scale-multiple"></ngx-spinner>
+<ngx-spinner size="default" name="s3" type="ball-spin-clockwise-fade-rotating"></ngx-spinner>

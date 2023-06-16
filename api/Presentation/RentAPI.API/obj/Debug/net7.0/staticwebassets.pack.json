@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\RentAhmet\\RentAPI\\Presentation\\RentAPI.API\\wwwroot\\files\\4a2f90677e2cdd47.png",
+      "PackagePath": "staticwebassets\\files\\4a2f90677e2cdd47.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\RentAhmet\\RentAPI\\Presentation\\RentAPI.API\\wwwroot\\files\\work-for-mustyy03.png",
+      "PackagePath": "staticwebassets\\files\\work-for-mustyy03.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\RentAhmet\\RentAPI\\Presentation\\RentAPI.API\\wwwroot\\files\\work-for-satoshuni.png",
+      "PackagePath": "staticwebassets\\files\\work-for-satoshuni.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\RentAhmet\\RentAPI\\Presentation\\RentAPI.API\\wwwroot\\resource\\files\\skin-for-kartoonkid91-v2.png",
+      "PackagePath": "staticwebassets\\resource\\files\\skin-for-kartoonkid91-v2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\RentAhmet\\RentAPI\\Presentation\\RentAPI.API\\wwwroot\\resource\\files\\skin-for-kartoonkid91.png",
+      "PackagePath": "staticwebassets\\resource\\files\\skin-for-kartoonkid91.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.RentAPI.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.RentAPI.API.props",
+      "PackagePath": "build\\RentAPI.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.RentAPI.API.props",
+      "PackagePath": "buildMultiTargeting\\RentAPI.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.RentAPI.API.props",
+      "PackagePath": "buildTransitive\\RentAPI.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

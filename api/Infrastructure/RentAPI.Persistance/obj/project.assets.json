@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "RentAPI.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "RentAPI.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RentAPI.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RentAPI.Application.dll": {}
+        }
+      },
+      "RentAPI.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/RentAPI.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RentAPI.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RentAPI.Application/1.0.0": {
+      "type": "project",
+      "path": "../../Core/RentAPI.Application/RentAPI.Application.csproj",
+      "msbuildProject": "../../Core/RentAPI.Application/RentAPI.Application.csproj"
+    },
+    "RentAPI.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../Core/RentAPI.Domain/RentAPI.Domain.csproj",
+      "msbuildProject": "../../Core/RentAPI.Domain/RentAPI.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "RentAPI.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\RentAhmet\\RentAPI\\Infrastructure\\RentAPI.Persistance\\RentAPI.Persistance.csproj",
+      "projectName": "RentAPI.Persistance",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\RentAhmet\\RentAPI\\Infrastructure\\RentAPI.Persistance\\RentAPI.Persistance.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\RentAhmet\\RentAPI\\Infrastructure\\RentAPI.Persistance\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\Admin\\Desktop\\RentAhmet\\RentAPI\\Core\\RentAPI.Application\\RentAPI.Application.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Desktop\\RentAhmet\\RentAPI\\Core\\RentAPI.Application\\RentAPI.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
